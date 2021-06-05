@@ -1,4 +1,4 @@
-# MT-Rose-Bot-Model
+# DarkAngel/Rose-Bot
 Telegram BoT 
 
 ## Dev Details 👤:
